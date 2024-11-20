@@ -74,6 +74,9 @@ print("Predicted Result:",y_prednew)
 
 ![image](https://github.com/user-attachments/assets/daa55a45-7615-4d00-8641-c9d4e81b8dab)
 
+
+
+
 ## PREDICTED:
 
 ![image](https://github.com/user-attachments/assets/f3b4ad0f-e6a2-41ba-b5bc-0746ae51fbd4)

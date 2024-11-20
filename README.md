@@ -68,14 +68,10 @@ xnew=np.array([[0,87,0,95,0,2,78,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
-
 ## Output:
 ## ACCURACY:
 
 ![image](https://github.com/user-attachments/assets/daa55a45-7615-4d00-8641-c9d4e81b8dab)
-
-
-
 
 ## PREDICTED:
 
